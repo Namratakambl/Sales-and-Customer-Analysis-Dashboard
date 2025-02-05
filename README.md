@@ -1,6 +1,6 @@
 Sales and Customer Analysis Dashboard
 
-Project Overview
+📊Project Overview
 This Tableau project analyzes sales performance and customer trends to provide key insights for decision-making. The project consists of two dashboards:
 
 Sales Dashboard – Displays total sales, total profit, total quantity, and a breakdown of sales and profit by subcategory. It also visualizes sales and profit trends over time, helping businesses track growth and profitability.
@@ -25,7 +25,11 @@ The data used in this project comes from CSV files containing sales transactions
 <img width="596" alt="Sales Dashbord" src="https://github.com/user-attachments/assets/0164312e-a32b-4420-8e7e-05ee744e39c0" />
 
 
+
+
 <img width="599" alt="Customer Dashbord" src="https://github.com/user-attachments/assets/47e96738-8958-4329-a57a-0bed38534cb0" />
+
+
 
 
 Why this version works:
