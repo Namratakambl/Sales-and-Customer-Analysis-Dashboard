@@ -1,4 +1,5 @@
 Sales and Customer Analysis Dashboard
+
 Project Overview
 This Tableau project analyzes sales performance and customer trends to provide key insights for decision-making. The project consists of two dashboards:
 
